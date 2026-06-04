@@ -1,0 +1,4 @@
+{"timestamp":"2026-06-03T18:00:00","camera":"CAM3","event_type":"person_detected","person_id":1}
+{"timestamp":"2026-06-03T18:00:05","camera":"CAM3","event_type":"person_detected","person_id":2}
+{"timestamp":"2026-06-03T18:00:10","camera":"CAM5","event_type":"billing_area_activity","count":1}
+{"timestamp":"2026-06-03T18:00:15","camera":"CAM3","event_type":"queue_detected","queue_length":4}
